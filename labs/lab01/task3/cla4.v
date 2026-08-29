@@ -71,3 +71,5 @@ module cla4(
   and #(2) (t4_3, p3, p2, p1, g0);
   and #(2) (t4_4, p3, p2, p1, p0, cin);
   or #(2) (cout, g3, t4_1, t4_2, t4_3, t4_4);
+
+endmodule
